@@ -80,7 +80,7 @@
 <key>PayloadDescription</key>
 <string>Bug fix</string>
 <key>PayloadDisplayName</key>
-<string>DNS Khơindvn</string>
+<string>haicutedns01</string>
 <key>PayloadIdentifier</key>
 <string>haicute.cloudflare.warp.com.profile</string>
 <key>PayloadScope</key>
